@@ -41,4 +41,3 @@ This repository hosts a fully functional multicycle datapath processor, implemen
 - **library.cfg**  
   Configuration file that maps library names to directories and sets up search paths for simulation and synthesis tools.
 
-=
